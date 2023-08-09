@@ -18,6 +18,7 @@
 		"builtin-modules": "3.3.0",
 		"esbuild": "0.17.3",
 		"obsidian": "latest",
+		"obsidian-overload": "^1.22.0",
 		"svelte": "^3.42.6",
 		"svelte-loader": "^3.1.2",
 		"svelte-preprocess": "^4.9.4",
